@@ -1,0 +1,4 @@
+It is a Python, Machine Learning project which is to decode Single key (UNO) input (Morse Code) into Voice
+(Conversie). Converting given input into comma-separated value (CSV). By using the K-means Clustering
+algorithm can convert into text. The final output is 90 percent accurate most of the time.
+- Technologies: Pandas, NumPy, Matplotlib, Kmeans, gTTs
